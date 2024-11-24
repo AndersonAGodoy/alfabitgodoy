@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@alfabitgodoy/button": ["libs/button/src/index.ts"],
+      "@alfabitgodoy/storybook-host": ["libs/storybook-host/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

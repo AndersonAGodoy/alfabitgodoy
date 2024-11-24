@@ -1,5 +1,5 @@
 {
-  "name": "@alfabitGodoy/button",
+  "name": "@alfabitgodoy/button",
   "version": "0.2.0",
   "peerDependencies": {
     "@angular/common": "^17.3.0",

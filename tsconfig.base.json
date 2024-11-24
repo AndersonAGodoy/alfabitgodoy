@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@alfabitgodoy/button": ["libs/button/src/index.ts"],
-      "@alfabitgodoy/input": ["libs/input/src/index.ts"],
+      "@alfabitgodoy/button": ["libs/ui/button/src/index.ts"],
+      "@alfabitgodoy/input": ["libs/ui/input/src/index.ts"],
       "@alfabitgodoy/storybook-host": ["libs/storybook-host/src/index.ts"]
     }
   },

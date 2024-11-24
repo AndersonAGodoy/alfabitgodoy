@@ -84,6 +84,6 @@
     }
   },
   "release": {
-    "projects": ["libs/input"]
+    "projects": ["libs/ui/*"]
   }
 }

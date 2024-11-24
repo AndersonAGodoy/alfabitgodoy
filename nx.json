@@ -83,8 +83,7 @@
       "style": "css"
     }
   },
-
   "release": {
-    "projects": ["libs/button"]
+    "projects": ["libs/input"]
   }
 }

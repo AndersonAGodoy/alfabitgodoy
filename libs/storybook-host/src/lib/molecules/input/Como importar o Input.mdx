@@ -1,0 +1,25 @@
+import { Meta, Source, Canvas } from '@storybook/blocks';
+import * as InputStories from './input.component.stories';
+
+<Meta of={InputStories} />
+
+# **Como usar o componente input**
+
+O componente **input** foi projetado para ser simples, reutilizável e personalizável. Veja abaixo como integrá-lo à sua aplicação Angular.
+
+---
+
+## **Importando o input**
+
+Para utilizar o componente em seu projeto Angular, basta importar o módulo correspondente:
+
+```ts
+import { InputComponent } from '@alfabitgodoy/input';
+```
+Após a importação, basta adicionar o Input em seu template HTML desta forma:
+<Source/>
+
+E assim, seu input será renderizado conforme abaixo:
+<Canvas of={InputStories.Primary} sourceState="none" />
+
+

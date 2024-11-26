@@ -14,7 +14,8 @@ export const PrimaryButton: Story = {
     text: 'Action',
     variant: 'primary',
     disabled: false,
-    theme: 'blue'
+    theme: 'blue',
+    size: 'medium'
   }
 }
 
